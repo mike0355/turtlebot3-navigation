@@ -2,5 +2,5 @@
     local-name: nuturtlebot
     uri: https://github.com/ME495-Navigation/nuturtlebot.git
 - git:
-    local-name: repo
+    local-name: main-assignment
     uri: git@github.com:ME495-Navigation/main-assignment-rencheckyoself.git
